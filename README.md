@@ -1,2 +1,2 @@
 # learndevops
-learndevops
+Learning git commands
